@@ -1,0 +1,21 @@
+id;full_name;email;country;created_at
+1;Alice Johnson;alice.johnson@example.com;USA;2023-01-06T00:00
+2;Bob Smith;bob.smith@example.com;Germany;2023-01-11T00:00
+3;Charlie Brown;charlie.brown@example.com;France;2023-01-16T00:00
+4;Diana Prince;diana.prince@example.com;Australia;2023-01-21T00:00
+5;Evan Thompson;evan.thompson@example.com;Australia;2023-01-26T00:00
+6;Fiona White;fiona.white@example.com;Australia;2023-01-31T00:00
+7;George Black;george.black@example.com;Brazil;2023-02-05T00:00
+8;Hannah Scott;hannah.scott@example.com;UK;2023-02-10T00:00
+9;Ian Wright;ian.wright@example.com;Germany;2023-02-15T00:00
+10;Julia Clark;julia.clark@example.com;Australia;2023-02-20T00:00
+11;Kevin Lee;kevin.lee@example.com;France;2023-02-25T00:00
+12;Laura Adams;laura.adams@example.com;India;2023-03-02T00:00
+13;Michael Davis;michael.davis@example.com;France;2023-03-07T00:00
+14;Nina King;nina.king@example.com;Germany;2023-03-12T00:00
+15;Oscar Hall;oscar.hall@example.com;India;2023-03-17T00:00
+16;Patricia Young;patricia.young@example.com;India;2023-03-22T00:00
+17;Quentin Hill;quentin.hill@example.com;Brazil;2023-03-27T00:00
+18;Rachel Green;rachel.green@example.com;Brazil;2023-04-01T00:00
+19;Sam Wilson;sam.wilson@example.com;Brazil;2023-04-06T00:00
+20;Tina Turner;tina.turner@example.com;Germany;2023-04-11T00:00

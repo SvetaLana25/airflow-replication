@@ -1,0 +1,11 @@
+services:
+  bot:
+    build: .
+    container_name: telegram_music_bot
+    volumes:
+      - .:/app
+    environment:
+      - BOT_TOKEN=
+      - GEMINI_API_KEY=
+    restart: unless-stopped
+
